@@ -1,4 +1,7 @@
-# Html-Tempelates
+# Html-Templates 
+
+## Gaming, Exploring, Adventure, Parallax, Education, Gym, Shopping, Others.
+### Create Folder if Not Exist For Your Template Category!
 
 ### Add Github Username On Top Of Temeplate as Comment!
 
